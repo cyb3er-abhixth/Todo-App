@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Todo-App/static/css/main.53d1c3f2.css",
+    "main.js": "/Todo-App/static/js/main.a2dea514.js",
+    "static/js/453.bf503050.chunk.js": "/Todo-App/static/js/453.bf503050.chunk.js",
+    "static/media/baloopaaji2-regular-webfont.woff": "/Todo-App/static/media/baloopaaji2-regular-webfont.6ee69e188829bb6058e9.woff",
+    "static/media/baloopaaji2-regular-webfont.woff2": "/Todo-App/static/media/baloopaaji2-regular-webfont.02d4c6e5ab2a27544ab2.woff2",
+    "static/media/delete.svg": "/Todo-App/static/media/delete.7c228be695c11f912732b47784104350.svg",
+    "static/media/revert.svg": "/Todo-App/static/media/revert.74d214422cba601d0914891eccdbe4ef.svg",
+    "index.html": "/Todo-App/index.html",
+    "static/media/plus.svg": "/Todo-App/static/media/plus.19bbb341fb5456e964a1569924f69873.svg",
+    "static/media/tick-green.svg": "/Todo-App/static/media/tick-green.b01db653d28ca6c03db027cb8c88498d.svg",
+    "main.53d1c3f2.css.map": "/Todo-App/static/css/main.53d1c3f2.css.map",
+    "main.a2dea514.js.map": "/Todo-App/static/js/main.a2dea514.js.map",
+    "453.bf503050.chunk.js.map": "/Todo-App/static/js/453.bf503050.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53d1c3f2.css",
+    "static/js/main.a2dea514.js"
+  ]
+}
