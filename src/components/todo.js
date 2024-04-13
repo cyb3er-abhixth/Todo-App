@@ -16,7 +16,7 @@ export default function Todo() {
     const [completed,setCompleted] = useState([
         {
             id:2,
-            title:"Do Steyp",
+            title:"Run",
         },
         
     ]);
