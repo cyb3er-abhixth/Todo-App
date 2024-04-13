@@ -2,7 +2,7 @@
   "name": "todo-application-advanced",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cyb3er-abhixth.github.io/todo-application",
+  "homepage": "https://cyb3er-abhixth.github.io/Todo-App",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
