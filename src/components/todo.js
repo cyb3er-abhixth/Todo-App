@@ -8,7 +8,7 @@ export default function Todo() {
     const [tasks,setTasks] = useState([
         {
             id:1,
-            title:"Cycle",
+            title:"Cycle 5km",
         },
         
 
