@@ -8,7 +8,7 @@ export default function Todo() {
     const [tasks,setTasks] = useState([
         {
             id:1,
-            title:"nothing",
+            title:"Cycle",
         },
         
 
@@ -16,7 +16,7 @@ export default function Todo() {
     const [completed,setCompleted] = useState([
         {
             id:2,
-            title:"Run",
+            title:"Run 2km",
         },
         
     ]);
